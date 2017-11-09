@@ -1,5 +1,6 @@
 import Route from '@ember/routing/route';
 import { plan } from './../lib/plan';
+const { moment } = window;
 
 export default Route.extend({
   model() {
