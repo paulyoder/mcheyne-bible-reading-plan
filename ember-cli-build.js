@@ -11,6 +11,13 @@ module.exports = function(defaults) {
         'node_modules/bootstrap/scss'
       ]
     },
+    'ember-cli-uglify': {
+      uglify: {
+        compress: {
+          unused: false
+        }
+      }
+    }
   });
 
   // Use `app.import` to add additional libraries to the generated
