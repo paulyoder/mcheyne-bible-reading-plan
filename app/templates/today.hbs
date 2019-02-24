@@ -1,0 +1,14 @@
+<div class='mx-auto max-w-sm bg-white shadow-md rounded'>
+  <div class='text-grey-lightest bg-teal-dark px-4 py-3 rounded rounded-b-none'>
+    <h1 class='text-3xl font-medium'>
+      {{ format-date model.today }}
+    </h1>
+  </div>
+  <div class='px-4 py-2 text-grey-darker text-lg'>
+    {{#each model.verses as |verse index|}}
+      <div class='{{if (eq index 0) '' 'border-t'}} border-grey-light py-3'>
+        {{verse}}
+      </div>
+    {{/each}}
+  </div>
+</div>
