@@ -127,6 +127,14 @@ export const plan = {
     29: ['Numbers 6', 'Psalm 40-41', 'Song of Solomon 4', 'Hebrews 4'],
     30: ['Numbers 7', 'Psalm 42-43', 'Song of Solomon 5', 'Hebrews 5'],
   },
+  5: {
+    1: ['Numbers 8', 'Psalm 44', 'Song of Solomon 6', 'Hebrews 6'],
+    2: ['Numbers 9', 'Psalm 45', 'Song of Solomon 7', 'Hebrews 7'],
+    3: ['Numbers 10', 'Psalm 46-47', 'Song of Solomon 8', 'Hebrews 8'],
+    4: ['Numbers 11', 'Psalm 48', 'Isaiah 1', 'Hebrews 9'],
+    5: ['Numbers 12-13', 'Psalm 49', 'Isaiah 2', 'Hebrews 10'],
+
+  },
   10: {
     30: ['2 Kings 11-12', '2 Timothy 2', 'Hosea 3-4', 'Psalm 119:121-144'],
     31: ['2 Kings 13', '2 Timothy 3', 'Hosea 5-6', 'Psalm 119:145-176'],
