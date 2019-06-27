@@ -226,6 +226,18 @@ export const plan = {
     30: ['Judges 13', 'Acts 17', 'Jeremiah 26', 'Mark 12'],
     31: ['Judges 14', 'Acts 18', 'Jeremiah 27', 'Mark 13'],
   },
+  8: {
+    1: ['Judges 15', 'Acts 19', 'Jeremiah 28', 'Mark 14'],
+    2: ['Judges 16', 'Acts 20', 'Jeremiah 29', 'Mark 15'],
+    3: ['Judges 17', 'Acts 21', 'Jeremiah 30-31', 'Mark 16'],
+    4: ['Judges 18', 'Acts 22', 'Jeremiah 32', 'Psalm 1-2'],
+    5: ['Judges 19', 'Acts 23', 'Jeremiah 33', 'Psalm 3-4'],
+    6: ['Judges 20', 'Acts 24', 'Jeremiah 34', 'Psalm 5-6'],
+    7: ['Judges 21', 'Acts 25', 'Jeremiah 35', 'Psalm 7-8'],
+    8: ['Ruth 1', 'Acts 26', 'Jeremiah 36 & 45', 'Psalm 9'],
+    9: ['Ruth 2', 'Acts 27', 'Jeremiah 37', 'Psalm 10'],
+    10: ['Ruth 3-4', 'Acts 28', 'Jeremiah 38', 'Psalm 11-12'],
+  },
   10: {
     30: ['2 Kings 11-12', '2 Timothy 2', 'Hosea 3-4', 'Psalm 119:121-144'],
     31: ['2 Kings 13', '2 Timothy 3', 'Hosea 5-6', 'Psalm 119:145-176'],
